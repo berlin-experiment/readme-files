@@ -72,7 +72,7 @@ I am currently in my first year of studying B. Sc. Software Engineering at CODE 
 
 <br>
 <div align="center">
-<img alt-txt="CODE_META Concept Design" src="./imgs/comparison-game/comparison-game.gif" width="350px">
+<img alt-txt="CODE_META Concept Design" src="./imgs/comparison-game/comparison-game.gif" width="500px">
 </div>
 <br>
 
